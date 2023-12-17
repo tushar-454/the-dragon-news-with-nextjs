@@ -5,7 +5,7 @@ import Image from 'next/image';
 const Header = () => {
   return (
     <>
-      <Box className='w-full text-center'>
+      <Box className='w-full text-center my-10'>
         <Image
           src={mainLogo}
           width={500}
