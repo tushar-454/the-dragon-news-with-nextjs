@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Project setup</h1>
+      <h1>Main components</h1>
     </div>
   );
 }
